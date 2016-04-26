@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    
+    <head>
+        <meta charset="utf-8">
+        <title>Morning session</title>
+    </head>
+             
+<body>
+    <header>
+        <h1>Speaking about day</h1>
+    </header>
+    <section>
+        
+        <h2>Understanding myself and integrating trough trying to understand others.</h2>
+        
+        <img src="http://2fhjuw36qc3g36anx54adxd2nje.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Cup-of-coffee2.jpg" alt="HTML resized image" title="Why to drink cofee - if better 'lax' is AH guarana energy drink!"
+             height="702" width="702">
+    </section>
+       
+    
+    <section>
+        
+        <h2>Investigating death penalty</h2>
+    
+        <img src="http://www.deathpenaltyinfo.org/images/DP-State-Map.gif" alt="image" title="States where the death penalty is in action"
+             height="519" width="702">
+        
+    </section>
+    
+    <section>
+        
+        <h2>In half-year time going to be paid again</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" alt="image" title="They must digest!"
+             height="702">
+        
+    </section>
+    
+    <footer>
+        <h3>This is made by RG.</h3>
+        <p>mail to <a href ="mail@mail.com">mail@mail.com</a></p>
+    </footer>
+    
+</body>
+
+
+</html>
