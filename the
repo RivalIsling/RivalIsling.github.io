@@ -1,0 +1,83 @@
+@-ms-viewport { width: 100vw ; min-zoom: 100% ; zoom: 100% ; } @viewport { width: 100vw ; min-zoom: 100% zoom: 100% ; }
+@-ms-viewport { user-zoom: fixed ; min-zoom: 100% ; } @viewport { user-zoom: fixed ; min-zoom: 100% ; }
+        
+            h1 {
+                text-align: center;
+                font-style: oblique;
+                font-family: fantasy;
+                font-size: 2rem;
+                font-weight: 10;
+            }
+            
+            h2 {
+                text-align: center;
+                font-style: oblique;
+                font-family: fantasy;
+                font-size: 2rem;
+                font-weight: 6;
+                
+            }
+            
+            
+            ul {
+                list-style-type: none;
+            }
+            
+             .R1 {
+                margin-left: 18rem;
+                margin-top: 4rem;
+                margin-right: 5rem;
+                margin-bottom: 1rem;
+                border: 16px solid lightgoldenrodyellow;
+                padding: 5px;
+                border-radius: 7px;
+                background-color: lightblue;
+                 
+            }
+            
+            .R2 {
+                margin-left: 1rem;
+                margin-top: 3ren;
+                margin-bottom: 1rem;
+                margin-right: 20rem;
+                border: 16px solid aquamarine;
+                padding: 5px;
+                border-radius: 9px;
+                align-content: center;
+                background-color: aqua;
+                
+            }
+            
+            .R3 {
+                margin-left: 16rem;
+                margin-top: 3ren;
+                margin-bottom: 14rem;
+                margin-right: 14rem;
+                border: 16px solid lightgreen;
+                padding: 5px;
+                border-radius: 16px;
+                align-content: right;
+                background-color: bisque;
+            }
+            
+            /* https://css-tricks.com/examples/GradientBorder/
+            */
+    
+
+            
+            .top-to-bottom {
+                border-width: 10px;
+                border-style: solid;
+                -webkit-border-image:
+                    -webkit-gradient(linear 0 0, 0 100%, from(orange), to(rgba(0, 0, 0, 0))) 1 100%;
+                -webkit-border-image:
+                    -webkit-linear-gradient(orange, rgba(0, 0, 0, 0)) 1 100%;
+                -moz-border-image:
+                    -maz-linear-gradient(purple, rgba(0, 0, 0, 0)) 1 100%;
+                -o-border-image:
+                    -o-lienear-gradient(yellow, rgba(0, 0, 0, 0)) 1 100%;
+                border-image:
+                    linear-gradient(to bottom, pink, rgba(0, 0, 0, 0)) 1 100%;
+                
+            }
+            
