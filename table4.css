@@ -1,0 +1,22 @@
+/* TABLE 4 */
+
+
+table.e3, th.e3, td.e3 {
+    border: 1px solid white;
+    border-collapse: collapse;
+            }
+
+th.e3 {
+    border-bottom: 3px solid white;
+    background-color: dodgerblue;
+}
+
+
+tr.R {
+    background-color: lightblue;
+} 
+
+tr.R1 {
+    background-color: skyblue;
+    
+}
