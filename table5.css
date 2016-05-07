@@ -1,0 +1,10 @@
+/* TABLE 6 */
+            
+table.eg1, th.eg1, td.eg1 {
+                border-collapse: collapse;
+                border-bottom: 1px solid black;
+            }
+
+table.eg1 tr:hover {
+                background-color: #ccff99;
+            }
