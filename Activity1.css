@@ -1,0 +1,29 @@
+   .u {
+            text-decoration: underline;
+        }
+        
+        .brect {
+            background-color:lightblue;
+            border: 1px dotted dimgry;
+        }
+        
+        .prect {
+            background-color: lightpink;
+        }
+        
+        p {
+            width: 300px;
+            height: 100px;
+        }
+        
+       html {
+            padding: 20px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            margin-left: 30px;
+            margin-right: 30px;
+        }
+        
+        body {
+            margin: 0;
+        }
