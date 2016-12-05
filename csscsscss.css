@@ -27,7 +27,7 @@ h1 {
 h2 { 
         font-family: Courier, Courier, monospace, serif;
         color: sandybrown;
-        border: 1px, solid;
+        border: 1px solid black;
         background: #ff6600;
         border-top: 40px;
         padding: 10px;
@@ -48,7 +48,7 @@ ol {
 ul {
         background-color: black;
         margin-bottom; 40px;
-        padding: 40px;
+        padding: 45px;
         
 }
 
