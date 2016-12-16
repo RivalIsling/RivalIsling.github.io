@@ -1,6 +1,6 @@
 /*This is CSS file for beautifying HTML*/
 
-body, h1, h2, section {  
+body, h2, section {  
         font-family: Courier, Courier, monospace;
         color: black;
         font-weight: 900;
@@ -16,6 +16,11 @@ body, h1, h2, section {
 .sections:hover {
            background-color: white;        
 }
+
+h1 {
+        font-size: 5rem;
+}
+
 
 ol { 
         
