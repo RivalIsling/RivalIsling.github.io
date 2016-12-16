@@ -2,7 +2,6 @@
 
 body, h2, h3, ol, ul, p{  
         font-family: Courier, Courier, monospace;
-        
         color: black;
         font-weight: 900;
         margin: 40px;
@@ -47,7 +46,6 @@ li {
 
 p { 
         font-family: Courier, Courier, monospace;
-        border: 3px dotted #ffff99;
         padding: 10px;
         margin-bottom: 40px;
 }
