@@ -51,12 +51,15 @@ p {
         background-color: green;
 }
 
-a {
-        background-color: salmon;
-        color: blue;
+footer {
         margin: 40px;
         border: 40px;
         padding: 10px;
+}
+
+a {
+        background-color: salmon;
+        color: blue;
 }
 
 a:active {
