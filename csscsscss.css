@@ -69,10 +69,11 @@ a:active {
            background-color: grey;        
 }
 
+.eyes {
+          color: red;
+}
+
 #link {
         color: black;
 }
 
-#link2 {
-        color: red;
-}
