@@ -1,6 +1,9 @@
 /*This is CSS file for beautifying HTML*/
 
-body, h1, h2 {  background-color: #ffff99;
+body, h1, h2 {  
+        font-family: Courier, Courier, monospace;
+        color: black;
+        background-color: #ffff99;
         margin: 40px;
         border: 40px;
         padding: 10px;
