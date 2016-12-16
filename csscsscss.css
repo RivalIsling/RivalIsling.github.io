@@ -71,3 +71,6 @@ p {
         margin-bottom: 40px;
 }
 
+.sections:hover {
+           background-color: white;        
+}
