@@ -25,14 +25,11 @@ h1 {
 
 
 ol { 
-        
-        background-color: green;
         margin-bottom: 40px;
         padding: 40px;
 }
 
 ul {
-        background-color: green;
         margin-bottom; 40px;
         padding: 45px;
         
@@ -55,7 +52,6 @@ p {
         padding: 10px;
         letter-spacing: -1px;
         margin-bottom: 40px;
-        background-color: green;
 }
 
 footer {
