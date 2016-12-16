@@ -51,6 +51,11 @@ p {
         background-color: green;
 }
 
+a {
+        background-color: salmon;
+        color: blue;
+}
+
 a:active {
          background-color: white;
          color: yellow;
