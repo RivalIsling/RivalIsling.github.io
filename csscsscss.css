@@ -5,10 +5,14 @@ body {  background-color: #ffff99;
         border: 40px;
         padding: 10px;
         font-size: 1rem;
-        
-        
+      
     
 }
+
+.sections:hover {
+           background-color: white;        
+}
+
 
 h1 {    
         font-family: impact, sans-serif;
@@ -71,6 +75,3 @@ p {
         margin-bottom: 40px;
 }
 
-.sections:hover {
-           background-color: white;        
-}
