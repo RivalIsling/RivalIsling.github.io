@@ -1,6 +1,6 @@
 /*This is CSS file for beautifying HTML*/
 
-body {  background-color: #ffff99;
+body, h1, h2 {  background-color: #ffff99;
         margin: 40px;
         border: 40px;
         padding: 10px;
@@ -11,35 +11,6 @@ body {  background-color: #ffff99;
 
 .sections:hover {
            background-color: white;        
-}
-
-
-h1 {    
-        font-family: impact, sans-serif;
-        color: #FF6600;
-        font-weight: 900;
-        letter-spacing: -2px;
-        border: 2px solid #ff6600;
-        padding: 10px;
-        margin-bottom: 40px;
-        font-weight: 900;
-    
-
-        
-}
-
-h2 { 
-        font-family: Courier, Courier, monospace, serif;
-        color: sandybrown;
-        border: 1px solid black;
-        background: green;
-        border-top: 40px;
-        padding: 10px;
-        padding-top: 40px;
-        margin-bottom: 40px;
-        font-style: italic;
-    
-
 }
 
 ol { 
