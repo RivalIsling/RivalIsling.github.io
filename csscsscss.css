@@ -13,14 +13,12 @@ body, h2, section {
     
 }
 
-.sections:hover {
-           background-color: white;        
-}
 
 h1 {    
         color: grey;
         font-size: 5rem;
 }
+
 
 
 ol { 
@@ -71,4 +69,8 @@ a {
 a:active {
          background-color: white;
          color: yellow;
+}
  
+.sections:hover {
+           background-color: white;        
+}
