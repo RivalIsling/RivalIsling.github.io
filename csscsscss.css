@@ -55,6 +55,7 @@ footer {
         margin: -1rem;
         padding: -1rem;
         border-radius: 10rem;
+        border-spacing: -1;
 }
 
 a {
