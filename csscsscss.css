@@ -1,6 +1,6 @@
 /*This is CSS file for beautifying HTML*/
 
-body, h2, {  
+body, h2, h3, ol, ul, p{  
         font-family: Courier, Courier, monospace;
         background-color: light-green;
         color: black;
