@@ -51,8 +51,7 @@ p {
 }
 
 footer {
-        border: 3px dotted #ffff99;
-        border-radius: 5rem;
+        background-color: light-grey;
         
 }
 
