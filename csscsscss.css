@@ -1,6 +1,6 @@
 /*This is CSS file for beautifying HTML*/
 
-body, h2, section {  
+body, h2, {  
         font-family: Courier, Courier, monospace;
         background-color: light-green;
         color: black;
@@ -41,8 +41,6 @@ li {
         color: black;
         padding: 10px;
         font-weight: 900;
-        letter-spacing: -1px;
-        word-spacing: -2px;
 
 }
 
@@ -50,7 +48,6 @@ p {
         font-family: Courier, Courier, monospace;
         border: 3px dotted #ffcc00;
         padding: 10px;
-        letter-spacing: -1px;
         margin-bottom: 40px;
 }
 
