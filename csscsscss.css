@@ -32,7 +32,7 @@ h2 {
         font-family: Courier, Courier, monospace, serif;
         color: sandybrown;
         border: 1px solid black;
-        background: #ff6600;
+        background: green;
         border-top: 40px;
         padding: 10px;
         padding-top: 40px;
@@ -44,13 +44,13 @@ h2 {
 
 ol { 
         
-        background-color: #ffcc00;
+        background-color: green;
         margin-bottom: 40px;
         padding: 40px;
 }
 
 ul {
-        background-color: black;
+        background-color: green;
         margin-bottom; 40px;
         padding: 45px;
         
