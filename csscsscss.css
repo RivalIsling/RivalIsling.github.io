@@ -70,3 +70,11 @@ a:active {
 .sections:hover {
            background-color: grey;        
 }
+
+#link {
+        color: lemon;
+}
+
+#link2 {
+        color: strawberry;
+}
