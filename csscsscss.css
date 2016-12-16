@@ -4,7 +4,6 @@ body, h2, section {
         font-family: Courier, Courier, monospace;
         color: black;
         font-weight: 900;
-        background-color: #ffff99;
         margin: 40px;
         border: 40px;
         padding: 10px;
@@ -13,6 +12,9 @@ body, h2, section {
     
 }
 
+h1, h2, h3, ol, ul, p {
+                        border: 3px dotted #ffff99;
+}
 
 h1 {    
         color: grey;
