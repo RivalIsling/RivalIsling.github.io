@@ -1,6 +1,6 @@
 /*This is CSS file for beautifying HTML*/
 
-body, h1, h2, h3 {  
+body, h1, h2, section {  
         font-family: Courier, Courier, monospace;
         color: black;
         font-weight: 900;
@@ -51,4 +51,7 @@ p {
         background-color: green;
 }
 
+a:active {
+         background-color: white;
+         font-style: italic;
  
