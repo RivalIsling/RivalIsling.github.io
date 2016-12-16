@@ -2,6 +2,7 @@
 
 body, h2, section {  
         font-family: Courier, Courier, monospace;
+        background-color: light-green;
         color: black;
         font-weight: 900;
         margin: 40px;
